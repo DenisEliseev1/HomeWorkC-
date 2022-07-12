@@ -1,0 +1,15 @@
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\bin\Debug\net6.0\Examples13.exe
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\bin\Debug\net6.0\Examples13.deps.json
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\bin\Debug\net6.0\Examples13.runtimeconfig.json
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\bin\Debug\net6.0\Examples13.dll
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\bin\Debug\net6.0\Examples13.pdb
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\obj\Debug\net6.0\Examples13.csproj.AssemblyReference.cache
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\obj\Debug\net6.0\Examples13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\obj\Debug\net6.0\Examples13.AssemblyInfoInputs.cache
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\obj\Debug\net6.0\Examples13.AssemblyInfo.cs
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\obj\Debug\net6.0\Examples13.csproj.CoreCompileInputs.cache
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\obj\Debug\net6.0\Examples13.dll
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\obj\Debug\net6.0\refint\Examples13.dll
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\obj\Debug\net6.0\Examples13.pdb
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\obj\Debug\net6.0\Examples13.genruntimeconfig.cache
+C:\Users\79247\Desktop\ДЕНИС\GeekBrains\Homework C#\Examples13\obj\Debug\net6.0\ref\Examples13.dll
