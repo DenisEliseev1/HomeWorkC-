@@ -36,6 +36,28 @@ void Zadacha21 ()
 
 }
 
+void Zadacha21v2 ()
+{
+    //Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
+    Console.WriteLine ("Введите координаты XYZ точки 1");
+    Console.Write ("x1= ");
+    int x1 =  Convert.ToInt32 (Console.ReadLine ());
+    Console.Write ("y1= ");
+    int y1 =  Convert.ToInt32 (Console.ReadLine ());
+    Console.Write ("z1= ");
+    int z1 =  Convert.ToInt32 (Console.ReadLine ());
+    Console.WriteLine ("Введите координаты XYZ точки 2");
+    Console.Write ("x2= ");
+    int x2 =  Convert.ToInt32 (Console.ReadLine ());
+    Console.Write ("y2= ");
+    int y2 =  Convert.ToInt32 (Console.ReadLine ());
+    Console.Write ("z2= ");
+    int z2 =  Convert.ToInt32 (Console.ReadLine ());
+    Console.WriteLine ("Расстояние между точкой 1 и точкой 2 = " + (Math.Sqrt (Math.Pow (x2-x1,2)+Math.Pow (y2-y1,2)+Math.Pow (z2-z1,2))));
+
+}
+
+
 void Zadacha23 ()
 {
     // Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
@@ -65,6 +87,7 @@ void PrintArray (int [] array)
 }
 
 
-//Zadacha19 ();
+// Zadacha19 ();
 // Zadacha21 ();
-Zadacha23 ();
+Zadacha21v2 ();
+// Zadacha23 ();
