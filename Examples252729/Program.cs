@@ -51,7 +51,6 @@ void Zadacha29 ()
             
                 
         }
-        PrintArray (arrayN);
     }
     Console.WriteLine ("Массив после сортировки :");
     PrintArray (arrayN);
