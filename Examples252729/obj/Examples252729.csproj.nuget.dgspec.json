@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\79247\\Desktop\\ДЕНИС\\GeekBrains\\Homework C#\\Examples252729\\Examples252729.csproj": {}
+    "C:\\Users\\Тесла\\Desktop\\!Елисеев\\Личное\\Образование\\GeekBrains\\HomeworkC#\\HomeWorkC-\\Examples252729\\Examples252729.csproj": {}
   },
   "projects": {
-    "C:\\Users\\79247\\Desktop\\ДЕНИС\\GeekBrains\\Homework C#\\Examples252729\\Examples252729.csproj": {
+    "C:\\Users\\Тесла\\Desktop\\!Елисеев\\Личное\\Образование\\GeekBrains\\HomeworkC#\\HomeWorkC-\\Examples252729\\Examples252729.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\79247\\Desktop\\ДЕНИС\\GeekBrains\\Homework C#\\Examples252729\\Examples252729.csproj",
+        "projectUniqueName": "C:\\Users\\Тесла\\Desktop\\!Елисеев\\Личное\\Образование\\GeekBrains\\HomeworkC#\\HomeWorkC-\\Examples252729\\Examples252729.csproj",
         "projectName": "Examples252729",
-        "projectPath": "C:\\Users\\79247\\Desktop\\ДЕНИС\\GeekBrains\\Homework C#\\Examples252729\\Examples252729.csproj",
-        "packagesPath": "C:\\Users\\79247\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\79247\\Desktop\\ДЕНИС\\GeekBrains\\Homework C#\\Examples252729\\obj\\",
+        "projectPath": "C:\\Users\\Тесла\\Desktop\\!Елисеев\\Личное\\Образование\\GeekBrains\\HomeworkC#\\HomeWorkC-\\Examples252729\\Examples252729.csproj",
+        "packagesPath": "C:\\Users\\Тесла\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Тесла\\Desktop\\!Елисеев\\Личное\\Образование\\GeekBrains\\HomeworkC#\\HomeWorkC-\\Examples252729\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\79247\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Тесла\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
