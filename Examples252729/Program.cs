@@ -54,6 +54,37 @@ void Zadacha29 ()
     PrintArray (arrayN);
 }
 
+void Zadacha29v2 ()
+{
+    // Напишите программу, которая задаёт массив из 8 элементов и выводит отсортированный по модулю массив.
+    Console.Write ("Введите длину массива :");
+    int num = Convert.ToInt32 (Console.ReadLine ());
+    int [] arrayN = new int [num];
+    int [] arrayS = new int [num];
+    AddArray (arrayN);
+    CopyArray (arrayS, arrayN);
+    int h = 0;
+    for (int i = 0; i<arrayS.Length; i++)
+    {
+        int min = i;
+        for (int j = i; j<arrayS.Length; j++)
+        {
+            if (Math.Abs (arrayS[min]) > Math.Abs (arrayS[j]))
+            {
+                h = arrayS[min];
+                arrayS [min] = arrayS[j];
+                arrayS[j] = h;                
+            }
+            
+        }
+    
+    }
+    Console.WriteLine ("Массив до сортировки :");
+    PrintArray (arrayN);
+    Console.WriteLine ("Массив после сортировки :");
+    PrintArray (arrayS);
+}
+
 void AddArray (int [] array)
 {
     Random rand = new Random();
@@ -72,6 +103,15 @@ void PrintArray (int [] array)
     Console.WriteLine ();
 }
 
+void CopyArray (int [] array, int [] array2)
+{
+    for (int i=0; i<array.Length; i++)
+    {
+        array [i] = array2 [i];
+    }
+    Console.WriteLine ();
+}
 //Zadacha25 ();
 // Zadacha27 ();
-Zadacha29 ();
+//Zadacha29 ();
+Zadacha29v2 ();
