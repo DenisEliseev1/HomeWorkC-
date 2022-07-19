@@ -39,7 +39,6 @@ void Zadacha29 ()
     for (int i = 0; i<arrayN.Length; i++)
     {
         int min = i;
-        
         for (int j = i; j<arrayN.Length; j++)
         {
             if (Math.Abs (arrayN[min]) > Math.Abs (arrayN[j]))
@@ -49,7 +48,6 @@ void Zadacha29 ()
                 arrayN[j] = h;                
             }
             
-                
         }
     }
     Console.WriteLine ("Массив после сортировки :");
