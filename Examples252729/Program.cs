@@ -12,6 +12,25 @@
     
 }
 
+void Zadacha25v2 ()
+{
+    //Задача 25: Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
+    // 3, 5 -> 243 (3⁵)
+    // 2, 4 -> 16
+    Random rand = new Random();
+    int NumA = rand.Next (1, 7);
+    int NumB = rand.Next (1, 7);
+    int proiz=1;
+    Console.WriteLine ("Число А = " + NumA);
+    Console.WriteLine ("Число B = " + NumB);
+    for (int i=0; i < NumB; i++)
+    {
+        proiz *= NumA;
+    }
+    Console.WriteLine ("А^B = " + proiz);
+    
+}
+
 void Zadacha27 ()
 {
     // Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
@@ -115,3 +134,4 @@ void CopyArray (int [] array, int [] array2)
 // Zadacha27 ();
 //Zadacha29 ();
 //Zadacha29v2 ();
+Zadacha25v2 ();
