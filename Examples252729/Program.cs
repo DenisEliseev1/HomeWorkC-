@@ -134,4 +134,4 @@ void CopyArray (int [] array, int [] array2)
 // Zadacha27 ();
 //Zadacha29 ();
 //Zadacha29v2 ();
-Zadacha25v2 ();
+//Zadacha25v2 ();

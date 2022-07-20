@@ -1,0 +1,15 @@
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\obj\Debug\net6.0\ExamplesDopS1.csproj.AssemblyReference.cache
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\obj\Debug\net6.0\ExamplesDopS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\obj\Debug\net6.0\ExamplesDopS1.AssemblyInfoInputs.cache
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\obj\Debug\net6.0\ExamplesDopS1.AssemblyInfo.cs
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\obj\Debug\net6.0\ExamplesDopS1.csproj.CoreCompileInputs.cache
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\bin\Debug\net6.0\ExamplesDopS1.exe
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\bin\Debug\net6.0\ExamplesDopS1.deps.json
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\bin\Debug\net6.0\ExamplesDopS1.runtimeconfig.json
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\bin\Debug\net6.0\ExamplesDopS1.dll
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\bin\Debug\net6.0\ExamplesDopS1.pdb
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\obj\Debug\net6.0\ExamplesDopS1.dll
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\obj\Debug\net6.0\refint\ExamplesDopS1.dll
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\obj\Debug\net6.0\ExamplesDopS1.pdb
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\obj\Debug\net6.0\ExamplesDopS1.genruntimeconfig.cache
+C:\Users\Тесла\Desktop\!Елисеев\Личное\Образование\GeekBrains\HomeworkC#\HomeWorkC-\ExamplesDopS1\obj\Debug\net6.0\ref\ExamplesDopS1.dll
